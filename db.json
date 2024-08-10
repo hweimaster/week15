@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Juliette Burkhart",
+        "email": "julietteb@gmail.com",
+        "number": "555-555-5510"
+      },
+      {
+        "id": 2,
+        "name": "James Williams",
+        "email": "jamesw@gmail.com",
+        "number": "555-555-5550"
+      },
+      {
+        "id": 3,
+        "name": "Ashley Luca",
+        "email": "ashleyl@gmail.com",
+        "number": "555-555-5521"
+      },
+      {
+        "id": 4,
+        "name": "Grace Willow",
+        "email": "gracew@gmail.com",
+        "number": "555-555-5531"
+      }
+    ]
+}
